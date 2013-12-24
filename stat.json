@@ -1,0 +1,13 @@
+{ "stats":
+ {"speed": 2851, "noncerate": 117.510, "noncerateperchip":1.836, "hashrate":131.286, "good":8208, "errors":690, "spi-errors":0, "miso-errors":0, "jobs":375, "record":134.977
+,"boards": [
+{ "slot": "4", "speed": 435, "noncerate":15.977, "hashrate": 22.788, "good": 1116, "errors": 369, "spi-errors": 0, "miso-errors":0 }
+,
+{ "slot": "8", "speed": 866, "noncerate":34.474, "hashrate": 38.252, "good": 2408, "errors": 146, "spi-errors": 0, "miso-errors":0 }
+,
+{ "slot": "9", "speed": 884, "noncerate":36.393, "hashrate": 37.882, "good": 2542, "errors": 76, "spi-errors": 0, "miso-errors":0 }
+,
+{ "slot": "A", "speed": 666, "noncerate":30.666, "hashrate": 32.364, "good": 2142, "errors": 99, "spi-errors": 0, "miso-errors":0 }
+
+ ]
+ } }
